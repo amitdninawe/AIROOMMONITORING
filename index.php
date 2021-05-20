@@ -293,8 +293,8 @@
 
                 // Step 1: Configure SDK Clients
                 var options = {
-                    accessKeyId: 'AKIAXLBOL5Y6ALFE5WKM',
-                    secretAccessKey: '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',
+                    accessKeyId: 'access key',
+                    secretAccessKey: 'secret key',
                     //sessionToken: $('#sessionToken').val() || undefined,
                     region: 'us-east-1',
                     //endpoint: $('#endpoint').val() || undefined
